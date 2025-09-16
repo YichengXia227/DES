@@ -1,4 +1,4 @@
-# DES for Fabric Printed Pattern Segmentation
+# DES
 
 Official repository for **"DES: A Multi-stage Framework for Accurate Fabric Printed Pattern Segmentation"**.
 
