@@ -10,7 +10,7 @@ Here are a few examples from the **FPPS5K dataset**:
 
 | Fabric Image | Segmentation Mask | Pattern Extraction |
 |--------------|------------------|--------------------|
-| ![sample1](assets/sample1.jpg) | ![mask1](assets/mask1.png) | ![pattern1](assets/pattern1.png) |
+| ![sample1](assets/4_2168.jpg) | ![mask1](assets/4_2168.png) | ![pattern1](assets/4_2168_pattern.png) |
 | ![sample2](assets/sample2.jpg) | ![mask2](assets/mask2.png) | ![pattern2](assets/pattern2.png) |
 
 ---
