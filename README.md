@@ -1,6 +1,6 @@
 # DES
 
-Official repository for **"DES: A Multi-stage Framework for Accurate Fabric Printed Pattern Segmentation"**.
+Official repository for **"DES: A Multi-stage Framework for Accurate Fabric Printed Pattern Segmentation"** [ICASSP 2026].
 
 Both the **code** and the **dataset** will be released **after paper acceptance**.
 ---
