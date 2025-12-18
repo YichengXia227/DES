@@ -6,10 +6,10 @@ Both the **code** and the **dataset** will be released **after paper acceptance*
 
 ---
 
-## 🌍 Real-world Fabric Image Test[2025.12 Updated]
+## 🌍 Real-world Fabric Image Test   [2025.12 Updated]
 
 The following examples demonstrate the performance of **DES** on **real-world fabric images**.
-| Real-world Fabric Image                     | Segmentation Result                              |
+| Real-world Image                     | Segmentation Result                              |
 | ------------------------------------------- | ------------------------------------------------ |
 | <img src="assets/real_1.jpg" width="350" /> | <img src="assets/real_1_mask.png" width="350" /> |
 | <img src="assets/real_2.jpg" width="350" /> | <img src="assets/real_2_mask.png" width="350" /> |
